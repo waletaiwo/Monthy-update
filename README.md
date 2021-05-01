@@ -8,9 +8,9 @@
 3. Advance python knowledge 
 4. Get a remote job
 
-
+---
 #
 
 ## Day 1
-**Learnt practical ways to write functions
-p.s python seems harder for someone without technical background then someone with one! while terraform is surprisingly easier.
+Learnt practical ways to write functions in pyhton.  
+P.s python seems harder for someone without technical background then someone with one! while terraform is surprisingly easier.
