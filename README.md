@@ -12,5 +12,5 @@
 #
 
 ## Day 1
-learnt practical ways to write functions
+**Learnt practical ways to write functions
 p.s python seems harder for someone without technical background then someone with one! while terraform is surprisingly easier.
