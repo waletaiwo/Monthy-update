@@ -9,10 +9,7 @@
 4. Get a remote job
 
 ---
-#
+# Comments:
+# Completed tasks:
 
-## Day 1
-Learnt practical ways to write functions in pyhton.  
-P.s python seems harder for someone without technical background then someone with one! while terraform is surprisingly easier.
 
-## Day 2
